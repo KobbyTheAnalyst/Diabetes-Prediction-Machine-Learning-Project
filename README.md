@@ -130,5 +130,3 @@ For questions or collaboration:
 Kwabena Osei-Owusu – Bioinformatics & Data Science Enthusiast
 GitHub: KobbyTheAnalyst
 LinkedIn: https://www.linkedin.com/in/kwabena-osei-owusu-7942b82a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-Would you like me to help upload the notebook step-by-step to GitHub as well?
